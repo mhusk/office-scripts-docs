@@ -7,7 +7,7 @@ localization_priority: Normal
 
 # Run Office Scripts with Power Automate
 
-[Power Automate](https://flow.microsoft.com) lets you add Office Scripts to a larger, automated workflow. You can use Power Automate do things like add the contents of an email to a worksheet's table or create actions in your project management tools based on workbook comments.
+[Power Automate](https://flow.microsoft.com) lets you add Office Scripts to a larger, automated workflow. You can use Power Automate to do things like add the contents of an email to a worksheet's table or create actions in your project management tools based on workbook comments.
 
 ## Getting started
 
