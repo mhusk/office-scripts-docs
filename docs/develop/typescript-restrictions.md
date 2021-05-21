@@ -34,7 +34,7 @@ TypeScript variable types can be [implicitly](https://www.typescriptlang.org/doc
 The most common case on any implicit `any` is in a variable declaration, such as `let value;`. There are two ways to avoid this:
 
 * Assign the variable to an implicitly identifiable type (`let value = 5;` or `let value = workbook.getWorksheet();`).
-* Explicitly type the variable (`let value: number;`)
+* Explicitly type the variable (`let value: number;`).
 
 ## No inheriting Office Script classes or interfaces
 
